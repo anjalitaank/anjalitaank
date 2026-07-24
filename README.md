@@ -124,15 +124,11 @@ I enjoy solving business problems through data, designing scalable data models, 
 
 💰 Financial Analytics
 
-👨‍💼 HR Analytics
-
 📦 Inventory Analytics
 
 📈 Operational Dashboards
 
 📉 Executive Dashboards
-
-📋 MIS Reporting
 
 📍 KPI Monitoring
 
