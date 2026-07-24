@@ -31,7 +31,7 @@ I enjoy solving business problems through data, designing scalable data models, 
 
 ✔ Optimize SQL Queries & Stored Procedures
 
-✔ Develop HR, Finance, Sales & Operational Analytics
+✔ Develop Finance, Sales & Operational Analytics
 
 ✔ Implement Row-Level Security (RLS)
 
@@ -153,12 +153,6 @@ Developed interactive dashboards for workflow monitoring, productivity analysis,
 ### 💰 Financial Performance Dashboard
 
 Created reports for budgeting, profitability, revenue analysis, variance analysis, and financial performance tracking.
-
----
-
-### 👥 HR Analytics Dashboard
-
-Built HR dashboards to analyze employee performance, attendance, workforce distribution, and organizational metrics.
 
 ---
 
