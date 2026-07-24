@@ -1,146 +1,101 @@
 <h1 align="center">Hi 👋, I'm Anjali Taank</h1>
-<h3 align="center">Power BI Developer | Business Intelligence Engineer | SQL Developer | Microsoft Fabric Enthusiast</h3>
+<h3 align="center">Power BI Developer | Business Intelligence Engineer | SQL Developer | Microsoft Fabric</h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Power+BI+Developer+%7C+SQL+Developer;Business+Intelligence+%26+Data+Analytics;Microsoft+Fabric+%7C+DAX+%7C+Power+Query;Building+Interactive+Dashboards;Transforming+Data+into+Business+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Power+BI+Developer;SQL+Developer;Microsoft+Fabric+Enthusiast;Business+Intelligence+Specialist;Turning+Data+into+Business+Insights"/>
 
 </div>
-
-<p align="center">
-<a href="https://linkedin.com/in/anjalitaankofficial">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:anjalitaank11@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
 
 ---
 
 # 💫 About Me
 
-I'm a **Power BI & SQL Developer** with **5+ years of experience** designing Business Intelligence solutions, enterprise dashboards, KPI scorecards, and reporting systems.
+I'm a **Power BI & SQL Developer** with **5+ years of experience** in designing Business Intelligence solutions, building interactive dashboards, optimizing SQL databases, and transforming complex business data into meaningful insights.
 
-I enjoy converting raw business data into interactive dashboards that help organizations make better decisions.
-
-My expertise includes designing scalable data models, writing optimized SQL queries, building advanced DAX calculations, and developing enterprise reporting solutions using Microsoft Fabric and Power BI Service.
+I enjoy solving business problems through data, designing scalable data models, and building dashboards that empower organizations to make data-driven decisions.
 
 ---
 
-## 🚀 Professional Experience
+## 🚀 What I Do
 
-### 💼 Senior Executive – SQL & Power BI
-**Teenrang Business Management Pvt Ltd (Finvey)**
+✔ Design enterprise Power BI dashboards
 
-Worked with **AutoFlow Ltd (UK)** to build enterprise reporting solutions for the Automotive Repair Industry.
+✔ Develop KPI Scorecards & Executive Reports
 
-Highlights:
+✔ Build Star & Snowflake Data Models
 
-- Designed Star Schema Data Models
-- Claims Analytics
-- Repair Workflow Dashboards
-- Technician Performance Analytics
-- Workshop KPI Dashboards
-- Row-Level Security (RLS)
-- Power BI Service Deployment
-- Microsoft Fabric ETL
+✔ Write Advanced DAX Measures
+
+✔ Perform ETL using Power Query & Microsoft Fabric
+
+✔ Optimize SQL Queries & Stored Procedures
+
+✔ Develop HR, Finance, Sales & Operational Analytics
+
+✔ Implement Row-Level Security (RLS)
+
+✔ Publish & Manage Reports in Power BI Service
+
+✔ Configure Gateways & Scheduled Refresh
+
+✔ Automate Manual Reporting Processes
+
+✔ Deliver Business Intelligence Solutions
+
+---
+
+# 🛠 Technical Skills
+
+### 📊 Business Intelligence
+
+- Power BI Desktop
+- Power BI Service
+- Microsoft Fabric
+- Dashboard Development
 - Executive Reporting
+- KPI Reporting
+- Data Visualization
 
 ---
 
-### 💼 Power BI Developer
-**BG Tech Solutions**
+### 🗄 Database
 
-Worked on enterprise reporting solutions for
-
-- Finance Analysis
-- Sales Analysis
-- Insurance Premium Analysis
-- Operation Analysis
-
-Also contributed to the **US Bank Project**, creating executive dashboards, BR Packs, operational reports and GDC management dashboards.
-
----
-
-# 🛠 Tech Stack
-
-## Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-6C2DC7?style=for-the-badge)
-
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
-
-![DAX](https://img.shields.io/badge/DAX-005571?style=for-the-badge)
-
----
-
-## Database
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-## Data Engineering
-
-- ETL
-- Data Warehousing
-- Query Optimization
+- SQL Server
 - Stored Procedures
 - Views
 - Functions
 - Triggers
-- Indexing
-- Window Functions
 - CTEs
+- Window Functions
+- Query Optimization
+- Performance Tuning
+- Indexing
 
 ---
 
-## Data Modeling
+### ⚡ Data Modeling
 
-⭐ Star Schema
-
-⭐ Snowflake Schema
-
-⭐ Fact & Dimension Tables
-
-⭐ Relationship Modelling
-
-⭐ Data Warehousing
+- Star Schema
+- Snowflake Schema
+- Fact & Dimension Modeling
+- Data Warehousing
+- Relationship Modeling
 
 ---
 
-## Power BI Expertise
+### 🔄 ETL
 
-✔ Power BI Desktop
-
-✔ Power BI Service
-
-✔ Dashboard Development
-
-✔ KPI Reporting
-
-✔ Executive Reporting
-
-✔ Workspace Management
-
-✔ Gateway Configuration
-
-✔ Dataset Refresh
-
-✔ App Publishing
-
-✔ Row-Level Security (RLS)
+- Power Query (M Language)
+- Data Cleansing
+- Data Transformation
+- Query Folding
+- Data Integration
+- Data Validation
 
 ---
 
-# 📊 DAX Expertise
+### 📈 Advanced DAX
 
 - CALCULATE
 - FILTER
@@ -148,99 +103,95 @@ Also contributed to the **US Bank Project**, creating executive dashboards, BR P
 - AVERAGEX
 - COUNTROWS
 - RANKX
-- RELATED
-- RELATEDTABLE
-- LOOKUPVALUE
-- USERELATIONSHIP
-- CROSSFILTER
 - SWITCH
 - IF
 - DIVIDE
-- DISTINCTCOUNT
+- LOOKUPVALUE
+- RELATED
+- USERELATIONSHIP
+- CROSSFILTER
 - TOTALYTD
 - TOTALMTD
 - TOTALQTD
-- DATEADD
 - SAMEPERIODLASTYEAR
+- DATEADD
 
 ---
 
-# 📈 Featured Projects
+# 💼 Areas of Expertise
 
-### 🚗 Automotive Repair Analytics Dashboard
+📊 Sales Analytics
 
-- Claims Tracking
-- Vehicle Repair Status
-- Technician Productivity
-- Workshop Performance
-- Customer Appointment Analysis
-- Executive KPI Dashboard
+💰 Financial Analytics
+
+👨‍💼 HR Analytics
+
+📦 Inventory Analytics
+
+📈 Operational Dashboards
+
+📉 Executive Dashboards
+
+📋 MIS Reporting
+
+📍 KPI Monitoring
+
+📊 Business Intelligence
+
+---
+
+# 🚀 Featured Projects
+
+### 📈 Executive KPI Dashboard
+
+Designed an executive reporting solution to monitor business KPIs, operational performance, revenue trends, and business growth.
+
+---
+
+### 🚗 Operational Analytics Dashboard
+
+Developed interactive dashboards for workflow monitoring, productivity analysis, turnaround tracking, and operational reporting.
 
 ---
 
 ### 💰 Financial Performance Dashboard
 
-- Revenue Analysis
-- Cost Analysis
-- Profitability
-- Budget vs Actual
-- Executive Reporting
+Created reports for budgeting, profitability, revenue analysis, variance analysis, and financial performance tracking.
 
 ---
 
 ### 👥 HR Analytics Dashboard
 
-- Attrition Analysis
-- Employee Performance
-- Department Analytics
-- Attendance Monitoring
+Built HR dashboards to analyze employee performance, attendance, workforce distribution, and organizational metrics.
 
 ---
 
-### 📦 Sales & CRM Dashboard
+### 📊 Sales Dashboard
 
-- Sales Performance
-- Customer Insights
-- Lead Conversion
-- Regional Analysis
-- Revenue Trends
+Developed sales performance dashboards with regional analysis, customer insights, revenue trends, and sales KPIs.
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
-- Microsoft Fabric Advanced Features
+- Microsoft Fabric
 - Data Engineering
-- Azure Data Factory
-- Python for Data Analytics
+- Azure
+- Python for Analytics
 - AI Integration with Power BI
 
 ---
 
-# 🌟 GitHub Stats
+# 📫 Connect With Me
 
-<p align="center">
+📧 **Email:** anjalitaank11@gmail.com
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjalitaank&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalitaank&layout=compact&theme=tokyonight"/>
-
-</p>
+💼 **LinkedIn:** linkedin.com/in/anjalitaankofficial
 
 ---
 
-# 📫 Connect with Me
+<div align="center">
 
-📧 Email
+### ⭐ "Turning Data into Actionable Insights"
 
-**anjalitaank11@gmail.com**
-
-💼 LinkedIn
-
-linkedin.com/in/anjalitaankofficial
-
----
-
-<h3 align="center">
-⭐ If you like my projects, consider giving them a Star ⭐
-</h3>
+</div>
