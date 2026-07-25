@@ -176,7 +176,7 @@ Developed sales performance dashboards with regional analysis, customer insights
 
 📧 **Email:** anjalitaank11@gmail.com
 
-💼 **LinkedIn:** linkedin.com/in/anjalitaankofficial
+💼 **LinkedIn:** https://www.linkedin.com/in/anjalitaankofficial
 
 ---
 
