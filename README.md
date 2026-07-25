@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Power+BI+Developer;SQL+Developer;Microsoft+Fabric+Enthusiast;Business+Intelligence+Specialist;Turning+Data+into+Business+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Power+BI+Developer;SQL+Developer;Microsoft+Fabric;Business+Intelligence+Specialist;Turning+Data+into+Business+Insights"/>
 
 </div>
 
